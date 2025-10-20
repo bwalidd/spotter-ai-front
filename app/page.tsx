@@ -38,7 +38,7 @@ export default function Home() {
       }`}
       style={
         !showResults
-          ? { backgroundImage: "url('/truck3.jpg')" }
+          ? { backgroundImage: "url('/trucks2.jpg')" }
           : {}
       }
     >
